@@ -13,6 +13,10 @@ and open the template in the editor.
         <?php
         echo 'This is the updated';
         // put your code here
+        echo 'After first commit';
+        
+        echo 'Updation from ebranch';
+        
         ?>
     </body>
 </html>
